@@ -1,0 +1,3 @@
+/home/sergi/Perception_s7-Frames-Transform/CMakeFiles/rebuild_cache.dir
+/home/sergi/Perception_s7-Frames-Transform/CMakeFiles/edit_cache.dir
+/home/sergi/Perception_s7-Frames-Transform/CMakeFiles/example.dir

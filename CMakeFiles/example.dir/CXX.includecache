@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sergi/Perception_s7-Frames-Transform/example.cpp
+iostream
+-
+eigen3/Eigen/Dense
+-
+eigen3/Eigen/Geometry
+-
+cmath
+-
+
